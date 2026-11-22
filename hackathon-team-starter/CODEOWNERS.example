@@ -1,0 +1,5 @@
+# Copy to .github/CODEOWNERS and replace placeholders with GitHub usernames.
+# * @team-lead
+# /frontend/ @frontend-owner
+# /backend/ @backend-owner
+# /.github/ @release-owner
